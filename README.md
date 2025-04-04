@@ -9,6 +9,10 @@ PackSavvy is a travel packing assistant web app designed to create optimized pac
 - **Packing Simulator**: A drag-and-drop interface to visualize how items fit in your luggage, with size and weight estimates.
 - **Checklist Mode**: (Planned) Interactive checklist to track packed items.
 - **Shared Lists**: (Planned) Collaborate with travel companions to avoid duplicates.
+- **Luggage Profiles**: Choose from 100 predefined luggage options (e.g., "Osprey Farpoint 40L") with max weight and dimensions, stored in MySQL.
+- **Base Items**: 200 real-world items (e.g., toothbrush, hiking boots) as a fallback, fetched from MySQL.
+- **AI-Powered Suggestions**: Combines outputs from Gemini, ChatGPT, and xAI’s Grok for smart packing lists.
+
 
 ## Installation
 1. **Prerequisites**: Node.js (v16+ recommended) and npm.
